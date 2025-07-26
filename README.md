@@ -33,12 +33,7 @@ Accurate forecasting of electricity demand and renewable energy generation is cr
 
 Due to data unavailability in this public repo, exact performance metrics (e.g., RMSE, MAE) are not shared here. But in the thesis version, **Bidirectional LSTM performed best** in forecasting electricity demand over 24-hour cycles.
 
-## 📝 License
 
-This project is developed for academic and research purposes as part of my postgraduate thesis.  
-It is open for **educational use only**.  
-For commercial use, dataset access, or collaboration inquiries, please feel free to contact me.
----
 
 ## 📂 Files in this Repo
 
